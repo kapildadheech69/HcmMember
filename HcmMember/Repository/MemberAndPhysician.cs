@@ -4,7 +4,6 @@ using HcmMember.Repository.IRepository;
 
 namespace HcmMember.Repository
 {
-    
     public class MemberAndPhysician : IMemberAndPhysician
     {
         private readonly ToDoContext context;

@@ -66,3 +66,13 @@ C:\HCM\HcmMember\HcmMember\obj\Debug\net6.0\HcmMember.genruntimeconfig.cache
 C:\HCM\HcmMember\HcmMember\obj\Debug\net6.0\ref\HcmMember.dll
 C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\AutoMapper.dll
 C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\HCM\HcmMember\HcmMember\bin\Debug\net6.0\Serilog.Sinks.File.dll
