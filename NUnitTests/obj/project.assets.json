@@ -7376,11 +7376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HCM\\HcmMember\\NUnitTests\\NUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\NUnitTests\\NUnitTests.csproj",
       "projectName": "NUnitTests",
-      "projectPath": "C:\\HCM\\HcmMember\\NUnitTests\\NUnitTests.csproj",
+      "projectPath": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\NUnitTests\\NUnitTests.csproj",
       "packagesPath": "C:\\Users\\2116067\\.nuget\\packages\\",
-      "outputPath": "C:\\HCM\\HcmMember\\NUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\NUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2116067\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7397,8 +7397,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\HCM\\HcmMember\\HcmMember\\HcmMember.csproj": {
-              "projectPath": "C:\\HCM\\HcmMember\\HcmMember\\HcmMember.csproj"
+            "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\HcmMember.csproj": {
+              "projectPath": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\HcmMember.csproj"
             }
           }
         }
@@ -7446,7 +7446,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   },

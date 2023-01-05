@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HCM\\HcmMember\\HcmMember\\HcmMember.csproj": {}
+    "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\HcmMember.csproj": {}
   },
   "projects": {
-    "C:\\HCM\\HcmMember\\HcmMember\\HcmMember.csproj": {
+    "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\HcmMember.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HCM\\HcmMember\\HcmMember\\HcmMember.csproj",
+        "projectUniqueName": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\HcmMember.csproj",
         "projectName": "HcmMember",
-        "projectPath": "C:\\HCM\\HcmMember\\HcmMember\\HcmMember.csproj",
+        "projectPath": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\HcmMember.csproj",
         "packagesPath": "C:\\Users\\2116067\\.nuget\\packages\\",
-        "outputPath": "C:\\HCM\\HcmMember\\HcmMember\\obj\\",
+        "outputPath": "C:\\Users\\2116067\\Source\\Repos\\HcmMember\\HcmMember\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2116067\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
